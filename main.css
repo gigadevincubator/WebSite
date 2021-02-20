@@ -204,3 +204,20 @@ body {
 .color-blue {
     color: #007bff;
 }
+#who-are-we{
+    background: url(img/bg_lines.jpg), linear-gradient(rgba(255,255,255,0) 90%, rgba(255,255,255,1) 100%);
+    background-size: cover;
+    background-blend-mode: color;
+}
+
+#who-are-you{
+    /*background: url(img/bg_lines_Flip.jpg);*/
+    /*background-size: cover;*/
+    /*background-position: top;*/
+}
+
+.team-member{
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
